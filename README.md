@@ -1,1 +1,1 @@
-# mario_esliceu
+# Repositori dels mòduls de SMX
